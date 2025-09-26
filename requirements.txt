@@ -1,6 +1,3 @@
-python -m venv env
-# env\scripts\activate
-
 easyocr
 streamlit
 pandas
