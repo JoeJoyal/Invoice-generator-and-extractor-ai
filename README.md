@@ -19,8 +19,8 @@ A Streamlit-powered, no-code, AI-assisted pipeline to extract key information fr
 ### 1. **Clone or Download This Repository**
 
 ```sh
-git clone 
-cd 
+git clone https://github.com/JoeJoyal/Invoice-generator-and-extractor-ai.git
+cd Invoice-generator-and-extractor-ai
 ```
 
 ### <font color=green>2. Install Python Dependencies</font>
