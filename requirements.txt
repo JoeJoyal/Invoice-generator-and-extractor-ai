@@ -1,5 +1,5 @@
 python -m venv env
-env\scripts\activate
+# env\scripts\activate
 
 easyocr
 streamlit
