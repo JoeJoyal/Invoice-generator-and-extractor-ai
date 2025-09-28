@@ -4,7 +4,7 @@ os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 import streamlit as st 
 from src.config import INPUT_DIR, PROCESSED_LOG
 from src.db import fetch_all, fetch_one_by_id, ensure_schema
-from src.pipeline import run_pipeline_for_file, load_seen, save_seen, pdf_to_images
+from pipeline import run_pipeline_for_file, load_seen, save_seen, pdf_to_images
 
 
 st.set_page_config(page_title="Intelligent Invoice Extractor", layout="wide")
